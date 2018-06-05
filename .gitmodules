@@ -1,0 +1,12 @@
+[submodule "app/lib/vendor/Tecnodesign"]
+	path = app/lib/vendor/Tecnodesign
+	url = https://github.com/capile/Tecnodesign.git
+[submodule "app/lib/vendor/lessc"]
+	path = app/lib/vendor/lessc
+	url = https://github.com/leafo/lessphp.git
+[submodule "app/lib/vendor/Parsedown"]
+	path = app/lib/vendor/Parsedown
+	url = https://github.com/erusev/parsedown.git
+[submodule "app/lib/vendor/ParsedownExtra"]
+	path = app/lib/vendor/ParsedownExtra
+	url = https://github.com/tecnodz/parsedown-extra.git

@@ -1,0 +1,9 @@
+---
+webInterface: false
+cacheTimeout: 0
+staticCache: 0
+response:
+  script:
+    site: [ /_/studio/z.js, /_/js/site.js ]
+  style: 
+    site: /_/css/site.less

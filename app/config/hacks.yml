@@ -1,0 +1,19 @@
+---
+all:
+  tecnodesign:
+    apps-dir: .
+    cache-dir: data/cache
+    data-dir: data
+    log-dir: data/log
+    templates-dir: template
+    document-root: ../www-static
+    languages: [ en, pt ]
+    routes:
+      /*:
+        class: Tecnodesign_Studio
+        method: run
+        additional-params: true
+  studio:
+    version: 1.1
+    connection: ~
+...
